@@ -1,0 +1,25 @@
+{
+  "name": "static-github-pages",
+  "version": "1.0.0",
+  "description": "Serve static files for front-end development. One-click deployment to Heroku.",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "./node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arbind/static-github-pages.git"
+  },
+  "keywords": [
+  ],
+  "author": "Arbind Thakur",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/arbind/static-github-pages/issues"
+  },
+  "homepage": "https://github.com/arbind/static-github-pages#readme"
+}

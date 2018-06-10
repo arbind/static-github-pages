@@ -1,0 +1,7 @@
+{
+  "name": "Static GitHub Pages",
+  "description": "Serve static files in public folder",
+  "website": "https://github.com/arbind/static-github-pages#readme",
+  "repository": "https://github.com/arbind/static-github-pages.git",
+  "success_url": "/"
+}
